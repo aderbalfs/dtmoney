@@ -16,15 +16,15 @@ createServer({
           title: 'Freelance de website',
           type: 'deposit',
           category: 'Dev',
-          amout: 12000,
+          amount: 12000,
           createdAt: new Date('2022-06-29 09:47:12')
         },
         {
           id: 2,
-          title: 'Hamburguer',
+          title: 'Aluguel de apartamento',
           type: 'withdraw',
-          category: 'Comida',
-          amout: 59,
+          category: 'Casa',
+          amount: 1110,
           createdAt: new Date('2022-07-02 12:47:12')
         }
       ],
